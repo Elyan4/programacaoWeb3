@@ -2,10 +2,27 @@
 
 ## Descrição do Projeto
 
-O projeto visa construir um conjunto de páginas web funcionais e ligadas entre si que representem um serviço de agencia de viagens online. O objetivo é criar uma Página Inicial com links para as pa´ginas secunárias, uma página de um destino de viagem de exemplo, além de uma página de login e uma página de cadastro.
+O projeto visa construir um conjunto de páginas web funcionais e ligadas entre si que representem um serviço de agencia de viagens online. O objetivo é criar uma Página Inicial com links para as páginas secundárias, pelo menos uma página de exemplo para uma das opções do menu inicial, além de uma página de login e uma página de cadastro funcionais.
 
 ## Status
 🚧Projeto em construção.
+
+## Changelog
+
+v1.0
+* CSS em contrução do cabeçalho da página inicial e links para funções de cadastro e login.
+
+v1.1
+* Funcionalidade de cadastro finalizada e associada a um banco de dados.
+
+## Objetivo
+
+Na entrega final do projeto pretende-se entregar no minimo as seguinte funções:
+* Página inicial com infromações da página CSS completo e links para as funcionalidades prontas;
+* No minimo 2 páginas de exemplo para pelo menos um dos links do menu inicial encontrado abaixo do logotipo na página inicial;
+* Cadastro e Login funcionais e devidamente associados a um banco de dados;
+* Barra de pesquisa da página inicial funcionando;
+
 
 ## Funcionalidades
 
