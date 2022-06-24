@@ -15,6 +15,9 @@ v1.0
 v1.1
 * Funcionalidade de cadastro finalizada e associada a um banco de dados.
 
+v1.2
+* CSS da pagina inicial finalizado
+
 ## Objetivo
 
 Na entrega final do projeto pretende-se entregar no minimo as seguinte funções:
